@@ -55,8 +55,5 @@ public class Canbo {
     public void setSex(String sex) {
         this.sex = sex;
     }
-    public void testgit(){
-        
-    }
     
 }
