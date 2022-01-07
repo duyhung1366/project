@@ -1,0 +1,46 @@
+[33mcommit 3007e0b35e0d8f954283857c3179ac6e8e6707e0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/add-branch[m[33m, [m[1;32madd-branch[m[33m)[m
+Author: = <=>
+Date:   Fri Jan 7 22:50:29 2022 +0700
+
+    create branch and update file canbo.java
+
+[33mcommit 85f75e91511e8af356c3dfccc76fbc81fb3f2341[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 1f01c9f a224702
+Author: = <=>
+Date:   Fri Jan 7 22:37:13 2022 +0700
+
+    resolve
+
+[33mcommit 1f01c9f61489d169c70987a3c2342bf2daf040c5[m
+Author: = <=>
+Date:   Fri Jan 7 22:34:12 2022 +0700
+
+    edit file canbo.java
+
+[33mcommit a2247024c7dde0593009df268b9b3e2027fb03b2[m
+Author: Hưng <87108976+duyhung1366@users.noreply.github.com>
+Date:   Fri Jan 7 22:32:03 2022 +0700
+
+    create conflic
+    
+    hihi
+
+[33mcommit 509a99e421ccf55553bbff3d1b90f465f935c1f3[m
+Author: = <=>
+Date:   Fri Jan 7 22:19:39 2022 +0700
+
+    update canbo.java
+
+[33mcommit da83d941d7d4a5b2e1fbb89bc4b398c40f5e035c[m
+Author: Hưng <87108976+duyhung1366@users.noreply.github.com>
+Date:   Fri Jan 7 22:17:14 2022 +0700
+
+    change canbo.java
+    
+    hihi
+
+[33mcommit c6e1298e14a8b6aff7eee8f88138f3364e50a34e[m
+Author: = <=>
+Date:   Fri Jan 7 18:51:41 2022 +0700
+
+    add file
