@@ -59,4 +59,6 @@ public class Canbo {
     public void hung(){
 
     }
+public void branch(){
+}
 }
